@@ -9,6 +9,7 @@ public class RememberMeOption {
 	    //instance variables US9
 	    // iValues store the elements of the list
 	    // may have extra capacity
+	    // test comment
 	    private Object[] iValues;
 	    private int iSize;
 	    
