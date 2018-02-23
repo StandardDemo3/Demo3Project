@@ -3,7 +3,7 @@ public class RememberMeOption {
 	public class ForgetPasswordOption {
 
 
-	    // class constant for default size 6 
+	    // class constant for default size 67 
 	    private static final int DEFAULT_CAP = 11;
 	    
 	    //instance variables US9
