@@ -12,7 +12,7 @@ public class LogicalOperator<LogicalOperator> {
 	    private int iSize;
 	    
 	    /**
-	     * Default add method. Add x to the end of this IntList.
+	     * Default add method. Add x to the end of this IntList
 	     * Size of the list goes up by 1.
 	     * @param x The value to add to the end of this list
 	     */
