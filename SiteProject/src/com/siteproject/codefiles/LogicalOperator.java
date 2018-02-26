@@ -14,7 +14,7 @@ public class LogicalOperator<LogicalOperator> {
 	    /**
 	     * Default add method. Add x to the end of this IntList.
 	     * Size of the list goes up by 1.
-	     * @param x The value to add to the end of this list.
+	     * @param x The value to add to the end of this list
 	     */
 	    public void add(Object x){
 	        insert(iSize, x);
