@@ -47,12 +47,12 @@ public class LogicalOperator<LogicalOperator> {
 	        iSize--;
 	        return removedValue;
 	    }
-	    /*private void IIF(){
+	    private void IIF(){
 	        // is there extra capacity available?
 	        // if not, resize
 	        if(iSize == iValues.length)
 	            resize();
-	    }*/
+	    }
 	    
 	    private void ensureCapcity(){
 	        // is there extra capacity available?
